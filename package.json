@@ -1,6 +1,6 @@
 {
   "name": "recaptcha-v3-enterprise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and easy to use reCAPTCHA Enterprise (v3 only) library for the browser.",
   "main": "dist/ReCaptcha.js",
   "types": "dist/ReCaptcha.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vanilla-IceCream/react-scroll-espionage.git"
+    "url": "git+https://github.com/Vanilla-IceCream/recaptcha-v3-enterprise.git"
   },
   "keywords": [
     "captcha",
@@ -29,9 +29,9 @@
   "author": "Vanilla IceCream",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Vanilla-IceCream/react-scroll-espionage/issues"
+    "url": "https://github.com/Vanilla-IceCream/recaptcha-v3-enterprise/issues"
   },
-  "homepage": "https://github.com/Vanilla-IceCream/react-scroll-espionage#readme",
+  "homepage": "https://github.com/Vanilla-IceCream/recaptcha-v3-enterprise#readme",
   "peerDependencies": {},
   "dependencies": {},
   "devDependencies": {
